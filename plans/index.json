@@ -1,0 +1,27 @@
+{
+  "monthly": {
+    "month_2026_05": {
+      "plan_id": "month_2026_05",
+      "status": "pending",
+      "saved_at": "2026-05-09T13:19:47",
+      "theme": "شلصل — توصيل كل لحظة",
+      "posts": 0
+    }
+  },
+  "weekly": {
+    "week_2026_19": {
+      "plan_id": "week_2026_19",
+      "status": "pending",
+      "saved_at": "2026-05-09T13:14:04",
+      "theme": "",
+      "posts": 0
+    },
+    "week_2026_01": {
+      "plan_id": "week_2026_01",
+      "status": "pending",
+      "saved_at": "2026-05-09T13:18:09",
+      "theme": "الترويج لشلصل وسرعة التوصيل في صنعاء",
+      "posts": 7
+    }
+  }
+}
